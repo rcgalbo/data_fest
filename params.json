@@ -1,0 +1,6 @@
+{
+  "name": "Data fest Submission",
+  "tagline": "LUC Data Fest Submission: Classifying User Behavior Using Unsupervised Learning Methods",
+  "body": "### Using the data provided for the competition, we were able to create solid features for quantifying user behavior. This allowed us to use a couple clustering methods to define two user groups for highly active usersers",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
